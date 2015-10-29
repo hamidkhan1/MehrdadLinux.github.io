@@ -27,3 +27,10 @@ You can find me on a variety of world wild interweb sites where my username is u
 ### [<img src="/res/twitter.png" width="29" height="20" style="display:inline-block;vertical-align:middle"> @MehrdadLinux](http://twitter.com/MehrdadLinux)
 
 <iframe src="https://www.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=mehrdadlinux%40gmail.com&amp;color=%232952A3&amp;ctz=Asia%2FTehran" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+<script>
+  ((window.gitter = {}).chat = {}).options = {
+    room: 'MehrdadLinux/MehrdadLinux'
+  };
+</script>
+<script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
