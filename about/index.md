@@ -31,7 +31,7 @@ You can find me on a variety of world wild interweb sites where my username is u
 
 <script>
   ((window.gitter = {}).chat = {}).options = {
-    room: 'MehrdadLinux/MehrdadLinux'
+    room: 'MehrdadLinux/MyBlog'
   };
 </script>
 <script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
