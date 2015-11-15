@@ -2,6 +2,7 @@
 layout: page
 fb_comments: 3
 title: About
+comments: true
 ---
 
 <img src="portrait.jpg" width="50%" align="right">
@@ -34,3 +35,6 @@ You can find me on a variety of world wild interweb sites where my username is u
   };
 </script>
 <script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
+
+
+
