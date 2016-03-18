@@ -3,12 +3,36 @@
     <title>MehrdadLinux</title>
   <link href="http://Opsnit.com/atom.xml" rel="self"/>
   <link href="http://Opsnit.com/"/>
-  <updated>2015-10-29T10:17:49+03:30</updated>
+  <updated>2016-03-18T22:49:41+03:30</updated>
   <id>http://Opsnit.com/</id>
   <author>
       <name>MehrdadLinux</name></name>
   <email>MehrdadLinux@gmail.com</email>
   </author>
+  
+  <entry>
+    <title>How to move VirtualBox VM’s To Other Drive</title>
+    <link href="http://Opsnit.com/2016/03/18/how-to-move-vbox-vms.html"/>
+    <updated>2016-03-18T00:00:00+03:30</updated>
+    <id>http://Opsnit.com/</id>/2016/03/18/how-to-move-vbox-vms</id>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://www.virtualbox.org/graphics/vbox_logo2_gradient.png&quot; alt=&quot;vbox&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;today for a second time i must move my Vbox vms to on other location , because i don&amp;rsquo;t have enough space in that location.
+VirtualBox have problem to move VM’s because if you can not introduce your VM’s to VirtualBox again you can not use it or you have hard way to pass.
+i solve this problem 2 years a go . and i dont document it know when i have this problem a gain i cannot remember how solve it :|
+&lt;br /&gt;&lt;br /&gt;i promise to my self if i solve it a gain i write my solution in blog :)))
+&lt;br /&gt;&lt;br /&gt;ok first you shut down all of your vm
+it is very important and now close your vbox move all your vm to other location you want
+now open vbox you see all off your vm loss a path right click on vm an now remove them
+&lt;br /&gt;&lt;br /&gt;&lt;img src=&quot;http://www.pcstats.com/articleimages/201207/win8virtualization_vb18.jpg&quot; alt=&quot;remove_vbox&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;go to tools option and click on add find your vm and add it in your vbox problem solved
+its was too easy keep it simple :D
+have fun&lt;/p&gt;
+</content>
+    <author>
+      <name>MehrdadLinux</name>
+      <uri>http://Opsnit.com/about/</uri>
+    </author>
+  </entry>
   
   <entry>
     <title>homeless</title>
