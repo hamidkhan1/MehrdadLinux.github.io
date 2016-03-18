@@ -5,7 +5,7 @@ date: "2016-03-18"
 comments: true
 ---
 ![vbox](https://www.virtualbox.org/graphics/vbox_logo2_gradient.png)
-<br /><br />today for a second time i must move my Vbox vms to on other location , because i don't have enough space in that location.
+<br /><br />today for a second time i must move my Vbox vms to another location , because i don't have enough space in that location.
 VirtualBox have problem to move VM’s because if you can not introduce your VM’s to VirtualBox again you can not use it or you have hard way to pass.
 i solve this problem 2 years a go . and i dont document it know when i have this problem a gain i cannot remember how solve it :|
 <br /><br />i promise to my self if i solve it a gain i write my solution in blog :)))
