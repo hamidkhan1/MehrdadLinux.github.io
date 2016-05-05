@@ -3,12 +3,34 @@
     <title>MehrdadLinux</title>
   <link href="http://Opsnit.com/atom.xml" rel="self"/>
   <link href="http://Opsnit.com/"/>
-  <updated>2016-03-19T02:35:00+03:30</updated>
+  <updated>2016-03-22T02:44:12+04:30</updated>
   <id>http://Opsnit.com/</id>
   <author>
       <name>MehrdadLinux</name></name>
   <email>MehrdadLinux@gmail.com</email>
   </author>
+  
+  <entry>
+    <title>remove password from pdf files </title>
+    <link href="http://Opsnit.com/2016/03/22/remove-password-from-pdf-files-.html"/>
+    <updated>2016-03-22T00:00:00+04:30</updated>
+    <id>http://Opsnit.com/</id>/2016/03/22/remove-password-from-pdf-files-</id>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://cdn.osxdaily.com/wp-content/uploads/2013/05/password-protect-pdf.jpg&quot; alt=&quot;pdfpass&quot; /&gt;
+&lt;br /&gt;hello my frind today i have another problem with password security
+&lt;br /&gt;i found pdf in net that protected by password i dont like it because
+&lt;br /&gt;after a days i forget where i downloaded and i loss a password
+&lt;br /&gt;we have very good solution in linux
+&lt;br /&gt;you must only install pdftk from repositori
+&lt;br /&gt;apt-get install pdftk
+&lt;br /&gt;after that use pdftk like this
+&lt;br /&gt;pdftk yourpdf password protect.pdf input_pw yourpassword output ./1.pdf
+&lt;br /&gt;solved&lt;/p&gt;
+</content>
+    <author>
+      <name>MehrdadLinux</name>
+      <uri>http://Opsnit.com/about/</uri>
+    </author>
+  </entry>
   
   <entry>
     <title>How to move VirtualBox VM’s To Other Drive</title>
